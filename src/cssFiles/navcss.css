@@ -1,0 +1,28 @@
+.back {
+    border-radius: 0px;
+    background: linear-gradient(145deg, #033043, #033043);
+
+}
+
+
+.b {
+    color: white;
+}
+
+.b:hover {
+    font-size: 22px;
+    transition: all 0.5s ease-in-out;
+}
+
+.bb {
+    background-color: #033043;
+    color: white;
+    border: 2px solid white;
+    padding: 10px;
+
+}
+
+.bb:hover {
+    margin-top: 2px;
+    transition: all 2ms ease-in-out;
+}
